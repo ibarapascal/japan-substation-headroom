@@ -1,0 +1,23 @@
+The data files of this repository are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/legalcode
+
+Copyright (c) 2026 The authors (see CITATION.cff)
+
+Files covered:
+
+- data/ (all files): derived tables of the released build and its retrieval manifest
+- guides/*.csv: coded voluntary siting guides and disclosure inventory
+- sites/*.csv: curated inputs of the data center site register
+- fetch/tepco_history_snapshots.csv: index of the archived TEPCO capacity lists used
+
+The tables in data/capacity/ and data/history/ are structured extractions of figures published by
+the operators; the other tables in data/ are computed from the published files. The source files
+themselves (published by the ten Japanese general transmission and distribution operators, the
+Ministry of the Environment and other publishers listed in README.md, "Sources and third-party
+terms") are not redistributed here and remain subject to their publishers' own terms of use.
+Attribution of the data should cite this dataset and name the publishing operators as the
+original sources.
+
+Not covered: tests/fixtures/ holds short excerpts of published source files used only by the
+tests. They are not licensed under CC BY 4.0 (or under the MIT license of the code); rights remain
+with the respective publishers.

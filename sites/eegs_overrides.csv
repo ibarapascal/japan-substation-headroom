@@ -1,0 +1,13 @@
+name_contains,basis,source_ref
+KDDI東京第四ネットワークセンター,operator_disclosure,https://biz.kddi.com/topics/2025/news/022
+多摩TC（多摩4NC）,operator_disclosure,https://biz.kddi.com/topics/2025/news/022
+多摩TC（東京技術センター）,operator_disclosure,https://biz.kddi.com/topics/2025/news/022
+ＫＤＤＩ東京技術センター,operator_disclosure,https://biz.kddi.com/topics/2025/news/022
+ＫＤＤＩ東京第三ネットワークセンター,operator_disclosure,https://biz.kddi.com/topics/2025/news/022
+多摩TC（多摩3NC）,operator_disclosure,https://biz.kddi.com/topics/2025/news/022
+館林システムセンター,operator_disclosure,https://fujitsu.com/jp/services/infrastructure/data-center-services/idc/tatebayashi
+明石システムセンター,operator_disclosure,https://fujitsu.com/jp/services/infrastructure/data-center-services/idc/akashi
+神戸システムセンター,operator_disclosure,https://jpn.nec.com/outsourcing/dc/kobe.html
+システムプラザ横浜,operator_disclosure,https://hitachi.co.jp/products/it/Outsourcing/datacenter/location/yokohama
+日立システムプラザ岡山,operator_disclosure,https://hitachi.co.jp/products/it/Outsourcing/datacenter/location/group
+日立システムプラザ新川崎,brand_pattern,https://hitachi.co.jp/products/it/Outsourcing/datacenter/location/group

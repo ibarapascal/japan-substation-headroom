@@ -1,0 +1,11 @@
+eegs_emitter_code,name_contains,capacity_mw,capacity_basis,capacity_note,timeline,source_type,source_ref
+960187800,印西ビル,27,unspecified,Colt Inzai DC3; final phase,opened 2020-11,news_release,https://kyodonewsprwire.jp
+985990809,TY12x,54,unspecified,final phase,opened 2021-03,operator_disclosure,https://equinix.co.jp
+985990809,OS2x,14,unspecified,final; first phase above 10 MW,first phase opened 2021-12,operator_disclosure,https://equinix.com/jp/ja/newsroom/press-releases/2021/12
+606010225,KIX10,7.6,it,,completed 2015-12; service start 2017-05,operator_disclosure,https://digitalrealty.com/data-centers/asia-pacific/osaka/kix10
+047020761,KIX11,25,it,,service start 2019-06,operator_disclosure,https://mc-digitalrealty.com/data-centers/kix
+928021921,KIX12,20,it,,service start 2021-08,news,https://kansai-sanpo.com/mc-digital-realty-osaka
+397024373,鹿黒,,,,construction started 2020-12; operating 2023-03,operator_disclosure,https://blog.google
+616022319,TOK1,,unspecified,initial phase above 60 MW; planned above 300 MW,opened 2021-11,operator_disclosure;news,https://airtrunk.com;https://cloud.watch.impress.co.jp
+800386774,福岡第1,,,about 1000 racks,operating 2003-01,operator_disclosure,https://qtpro.jp/service/cloud-dc/dc/qd1
+800386774,福岡第3,,,about 1400 racks,operating 2019-09-01,operator_disclosure,https://qtpro.jp

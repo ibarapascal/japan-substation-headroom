@@ -1,0 +1,17 @@
+eegs_emitter_code,operator_group,type,source_type,source_ref
+960332160,Amazon Web Services,hyperscale_cloud,,
+960187800,Colt,colo_metro,news_release,https://kyodonewsprwire.jp
+981093948,Equinix,colo_metro,operator_disclosure,https://equinix.co.jp
+985990809,Equinix (xScale),hyperscale_cloud,operator_disclosure,https://equinix.co.jp
+438052220,MC Digital Realty,colo_metro,,
+606010225,MC Digital Realty,colo_metro,operator_disclosure,https://digitalrealty.com/data-centers/asia-pacific/osaka/kix10
+047020761,MC Digital Realty,colo_metro,operator_disclosure,https://mc-digitalrealty.com/data-centers/kix
+928021921,MC Digital Realty,colo_metro,news,https://kansai-sanpo.com/mc-digital-realty-osaka
+384015395,Google Cloud,hyperscale_cloud,,
+397024373,Google,hyperscale_cloud,operator_disclosure,https://blog.google
+616022319,AirTrunk,hyperscale_cloud,operator_disclosure,https://airtrunk.com
+581915341,さくらインターネット,colo_metro,operator_disclosure,https://sakura.ad.jp
+960167567,IDCフロンティア,colo_metro,,
+984521206,IIJ,colo_metro,,
+982233373,三菱総研DCS,colo_metro,,
+800386774,QTnet,telecom_enterprise,operator_disclosure,https://qtpro.jp/service/cloud-dc/dc/qd1

@@ -1,0 +1,7 @@
+# Runtime
+numpy>=1.22
+pyarrow>=10        # Parquet output (optional: without it the long table is written as csv.gz)
+openpyxl>=3.1      # .xlsx / .xlsm loading files
+xlrd>=2.0          # .xls loading files
+# Tests
+pytest>=7

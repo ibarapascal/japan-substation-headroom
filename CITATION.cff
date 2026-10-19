@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite it as below."
+type: dataset
+title: "Japan transformer-level hourly loading and capacity tables: harmonized derived dataset"
+version: 0.1.0
+date-released: "2026-10-20"
+authors:
+  - family-names: Jing
+    given-names: Jiawei
+repository-code: "https://github.com/ibarapascal/japan-substation-headroom"
+url: "https://github.com/ibarapascal/japan-substation-headroom"
+license:
+  - MIT
+  - CC-BY-4.0
+abstract: >-
+  Harmonized tables derived from two disclosures published by each of Japan's ten
+  general transmission and distribution operators: hourly measured power flow on the
+  secondary side of substation transformers, and transformer capacity tables (number of
+  units, rated capacity, operating capacity, forecast flow, published available capacity).
+  The code downloads the published files, parses the operator-specific layouts into one
+  hourly long table and one capacity table, computes substation-year statistics of the
+  coincident hourly load (annual peak, percentiles, zero and negative hours), joins them to
+  the capacity tables by normalized substation name and voltage, and reports load-direction
+  headroom under two definitions (operating capacity minus annual peak; (units-1)/units of
+  rated capacity minus annual peak). The dataset also contains the TEPCO Power Grid
+  per-area capacity lists of 2019-2025 parsed from Internet Archive copies, a register of
+  data center sites in Japan built from facility-level emission reports (EEGS) and public
+  announcements, and factual items coded from the operators' voluntary demand-side siting
+  guides with a per-operator inventory of grid disclosure items. Source files are not
+  redistributed; a manifest records their URLs and SHA-256 checksums. Code is licensed
+  under MIT and data files under CC BY 4.0.
+keywords:
+  - electricity distribution
+  - substation
+  - transformer loading
+  - hosting capacity
+  - data center
+  - Japan

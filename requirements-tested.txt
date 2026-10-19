@@ -1,0 +1,7 @@
+# Versions with which the test suite passed (Python 3.9.6).
+# requirements.txt gives the minimum versions.
+numpy==2.0.2
+pyarrow==21.0.0
+openpyxl==3.1.5
+xlrd==2.0.2
+pytest==8.4.2
