@@ -9,9 +9,8 @@ authors:
     given-names: Jiawei
 repository-code: "https://github.com/ibarapascal/japan-substation-headroom"
 url: "https://github.com/ibarapascal/japan-substation-headroom"
-license:
-  - MIT
-  - CC-BY-4.0
+# Data and documentation: CC BY 4.0 (LICENSE-DATA). Code: MIT (LICENSE).
+license: CC-BY-4.0
 abstract: >-
   Harmonized tables derived from two disclosures published by each of Japan's ten
   general transmission and distribution operators: hourly measured power flow on the
