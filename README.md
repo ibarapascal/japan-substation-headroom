@@ -1,5 +1,7 @@
 # Japan transformer-level hourly loading and capacity tables: harmonized derived dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23479023.svg)](https://doi.org/10.5281/zenodo.23479023)
+
 Code and derived tables built from two disclosures that each of Japan's ten general
 transmission and distribution operators publishes on its own website under the national
 guideline on grid information disclosure (系統情報の公表の考え方):
@@ -596,7 +598,8 @@ Differences are expected when operators have revised or replaced published files
 
 ## Citation and licence
 
-See `CITATION.cff`. Code: MIT (`LICENSE`). Data tables (`data/`, `guides/*.csv`, `sites/*.csv`,
+Archived on Zenodo: https://doi.org/10.5281/zenodo.23479023 (all versions; version 0.1.0 is
+https://doi.org/10.5281/zenodo.23479024). See `CITATION.cff`. Code: MIT (`LICENSE`). Data tables (`data/`, `guides/*.csv`, `sites/*.csv`,
 `fetch/tepco_history_snapshots.csv`): CC BY 4.0 (`LICENSE-DATA`).
 
 `tests/fixtures/` holds short excerpts of published source files, used only by the tests. They are

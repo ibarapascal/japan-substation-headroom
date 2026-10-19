@@ -9,6 +9,11 @@ authors:
     given-names: Jiawei
 repository-code: "https://github.com/ibarapascal/japan-substation-headroom"
 url: "https://github.com/ibarapascal/japan-substation-headroom"
+doi: 10.5281/zenodo.23479023
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23479023
+    description: "Concept DOI, always resolves to the latest version"
 # Data and documentation: CC BY 4.0 (LICENSE-DATA). Code: MIT (LICENSE).
 license: CC-BY-4.0
 abstract: >-
